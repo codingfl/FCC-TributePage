@@ -1,0 +1,43 @@
+body{
+  font-family: Arial, Sans-Serif;
+}
+
+h1{
+  background-color: rgba(255,255,0, 0.2);
+  text-align: center;
+}
+
+figure{
+  text-align: center;
+  font-size: 14px;
+}
+
+#tribute-info{
+  margin: 10px 25px;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  width: auto;
+  border-style: solid;
+}
+
+.list-title {
+  text-align: center;
+  font-weight: bold;
+}
+
+li {
+  margin: 15px 0px;
+  font-size: 14px;
+}
+
+#tribute-link{
+  display: block;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px 0px;
+  font-weight: bold;
+  background-color: rgba(255,255,0, 0.5);
+}
